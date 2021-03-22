@@ -1,0 +1,9 @@
+{
+  "title": "AnvilPowered",
+  "siteUrl": "http://www.anvilpowered.org",
+  "description": "AnvilPowered website",
+  "home": {
+    "title": "AnvilPowered",
+    "description": "AnvilPowered is a small group of developers who aim to provide an easy-to-use development library to develop multi-platform plugins for Minecraft"
+  }
+}
